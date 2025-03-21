@@ -1,0 +1,21 @@
+{
+  "name": "startpath_backend",
+  "version": "1.0.0",
+  "description": "StartPath is a job platform designed to help junior professionals find their first job opportunities. It connects entry-level candidates with recruiters, providing a seamless experience for both sides.",
+  "main": "src/index.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "packageManager": "pnpm@10.6.5",
+  "dependencies": {
+    "fastify": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
